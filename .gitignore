@@ -1,0 +1,5 @@
+dist-newstyle/
+*.exe
+*.o
+*.hi
+result.txt
